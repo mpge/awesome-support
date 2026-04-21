@@ -13,6 +13,8 @@ A tool qualifies if **all** of these hold:
 
 We exclude abandoned projects, white-label resellers of an already-listed tool, and tools only tangentially related to support.
 
+**Exception for BI and survey categories.** In Support Analytics and Reporting, Survey and CSAT, and a few adjacent categories, the industry-standard tools are general-purpose (e.g., Looker, Tableau, SurveyMonkey, Typeform). These are included when they are widely and materially used for support workflows, even though they aren't purpose-built. The description should make the support-specific framing explicit.
+
 ## How to suggest a tool
 
 1. Open an issue using the **Suggest a Tool** template and fill in every field.
@@ -28,9 +30,9 @@ Every entry must match this exact pattern:
 Rules:
 
 - Description starts with a capital letter and ends with a period.
-- Description is one sentence, roughly 10-20 words.
+- Description is one sentence, roughly 5-20 words. Short-and-specific beats padded.
 - `pricing` is one of: `free`, `freemium`, `paid`, `open source`. You may combine them, for example `free; open source`.
-- `deployment` is one of: `SaaS`, `self-hosted`, or both separated by `/`.
+- `deployment` is one of: `SaaS`, `self-hosted`, or both separated by ` / `. When a tool supports both, list the primary/recommended deployment first.
 - Entries are alphabetical within their section (case-insensitive).
 - No emoji, no inline HTML, no badge images.
 
