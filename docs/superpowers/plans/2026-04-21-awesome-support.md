@@ -305,7 +305,6 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 - [Translation and Localization](#translation-and-localization)
 - [Email Deliverability](#email-deliverability)
 - [Related](#related)
-- [Contributing](#contributing)
 
 ## Ticketing and Shared Inbox
 
@@ -403,18 +402,14 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 
 - [awesome-support](https://github.com/fatihok/awesome-support) - The original awesome-support list; more OSS-focused than this one.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Broader self-hosted software list with a ticketing section.
-- [awesome-customer-success](https://github.com/xopxe/awesome-customer-success) - Focused specifically on customer success.
+- [awesome-customer-success](https://github.com/keon/awesome-customer-success) - Focused specifically on customer success.
 
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [mpge](https://github.com/mpge) has waived all copyright and related or neighboring rights to this work.
 ```
+
+**Note:** awesome-lint forbids a `## License` heading in the body and disallows `Contributing` in the TOC. The canonical LICENSE file at repo root covers the license; GitHub auto-detects CC0. Do NOT add a License section or add Contributing to the TOC.
 
 - [ ] **Step 2: Run the linter to verify the skeleton passes**
 
@@ -958,16 +953,17 @@ Expected: output includes `Logged in to github.com as mpge`. If it says any othe
 
 From `C:\Users\work\awesome-support`:
 
+> **Note:** Task 2 added a local `origin` remote pointing to `https://github.com/mpge/awesome-support.git` (required for awesome-lint). Do NOT pass `--remote=origin` to `gh repo create` — it will fail because the remote already exists. Instead, create the repo without setting the remote, then push using the existing one.
+
 ```bash
 gh repo create mpge/awesome-support \
   --public \
-  --source=. \
-  --remote=origin \
-  --push \
   --description "A curated list of customer and IT support software — paid, free, and open source."
+
+git push -u origin main
 ```
 
-Expected: command prints the URL `https://github.com/mpge/awesome-support`.
+Expected: `gh repo create` prints `https://github.com/mpge/awesome-support`; `git push` reports the branch set up to track `origin/main`.
 
 - [ ] **Step 3: Verify the CI lint workflow runs and passes**
 
