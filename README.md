@@ -157,15 +157,38 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 
 ## In-App Messaging and Product Tours
 
-- [Placeholder](https://example.com/placeholder-12) - Temporary entry replaced in Task 7 (paid; SaaS).
+- [Appcues](https://www.appcues.com) - In-app onboarding flows, tours, and announcements (paid; SaaS).
+- [Chameleon](https://www.chameleon.io) - In-product tours, tooltips, and surveys (paid; SaaS).
+- [Pendo](https://www.pendo.io) - Product analytics with in-app guides and feedback (paid; SaaS).
+- [Shepherd.js](https://shepherdjs.dev) - Open-source JavaScript library for guided product tours (free; open source; self-hosted).
+- [UserGuiding](https://userguiding.com) - No-code onboarding and product tours for SMBs (paid; SaaS).
+- [Userflow](https://www.userflow.com) - In-app flows, checklists, and surveys with a developer-friendly SDK (paid; SaaS).
+- [Userpilot](https://userpilot.com) - Product experience platform for onboarding and adoption (paid; SaaS).
+- [WalkMe](https://www.walkme.com) - Enterprise digital-adoption platform (paid; SaaS).
+- [Whatfix](https://whatfix.com) - Digital-adoption platform for enterprise applications (paid; SaaS).
 
 ## Customer Feedback and Voice of Customer
 
-- [Placeholder](https://example.com/placeholder-13) - Temporary entry replaced in Task 7 (paid; SaaS).
+- [Aha! Ideas](https://www.aha.io/ideas/overview) - Idea management from the Aha! product-management suite (paid; SaaS).
+- [Canny](https://canny.io) - Public feature-request boards and roadmap voting (freemium; SaaS).
+- [Feature Upvote](https://featureupvote.com) - Simple feature-voting boards for product teams (paid; SaaS).
+- [Fider](https://fider.io) - Open-source feedback boards you can self-host (free; open source; self-hosted).
+- [Frill](https://frill.co) - Feedback widgets, roadmap, and changelog (paid; SaaS).
+- [Nolt](https://nolt.io) - Clean, minimalist feedback and voting boards (paid; SaaS).
+- [Productboard](https://www.productboard.com) - Product-management platform with strong feedback capture (paid; SaaS).
+- [Savio](https://savio.io) - Customer-feedback tracking tied to CRM and billing data (paid; SaaS).
+- [UserVoice](https://www.uservoice.com) - Long-running product feedback and idea-management platform (paid; SaaS).
 
 ## Customer Success Platforms
 
-- [Placeholder](https://example.com/placeholder-14) - Temporary entry replaced in Task 7 (paid; SaaS).
+- [Catalyst](https://catalyst.io) - Customer-success platform with strong CRM integration (paid; SaaS).
+- [ChurnZero](https://churnzero.com) - Customer-success platform focused on SaaS retention and adoption (paid; SaaS).
+- [ClientSuccess](https://www.clientsuccess.com) - Mid-market customer-success platform (paid; SaaS).
+- [Custify](https://www.custify.com) - Customer-success platform for SaaS with health scores and playbooks (paid; SaaS).
+- [Gainsight CS](https://www.gainsight.com/customer-success/) - Leading enterprise customer-success platform (paid; SaaS).
+- [Planhat](https://www.planhat.com) - Modern customer-success platform with CRM-like data model (paid; SaaS).
+- [Totango](https://www.totango.com) - Customer-success and revenue platform (paid; SaaS).
+- [Vitally](https://www.vitally.io) - Customer-success platform designed for B2B SaaS operators (paid; SaaS).
 
 ## ITSM and Internal Service Desk
 
