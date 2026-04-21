@@ -42,6 +42,7 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 - [Intercom](https://www.intercom.com) - Messenger-first customer support and engagement platform with AI agents (paid; SaaS).
 - [Kayako](https://kayako.com) - Unified ticketing across email, chat, and social with a customer-journey view (paid; SaaS).
 - [osTicket](https://osticket.com) - Long-running open-source ticketing system for small teams (free; open source; self-hosted).
+- [Salesforce Service Cloud](https://www.salesforce.com/service/) - Enterprise ticketing and case management on the Salesforce platform (paid; SaaS).
 - [Trengo](https://trengo.com) - Shared inbox unifying WhatsApp, email, chat, and voice channels (paid; SaaS).
 - [Zammad](https://zammad.org) - Modern open-source web-based helpdesk and customer-support system (free; open source; self-hosted).
 - [Zendesk](https://www.zendesk.com) - Omnichannel ticketing and customer-service platform; the category incumbent (paid; SaaS).
@@ -129,6 +130,7 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 - [Fin by Intercom](https://www.intercom.com/fin) - AI agent built on top of Intercom's support data (paid; SaaS).
 - [Forethought](https://forethought.ai) - AI agent and triage platform for support teams (paid; SaaS).
 - [Netomi](https://www.netomi.com) - AI-first customer experience platform for resolution automation (paid; SaaS).
+- [Salesforce Agentforce](https://www.salesforce.com/agentforce/) - Autonomous AI agents built into the Salesforce Service Cloud platform (paid; SaaS).
 - [Sierra](https://sierra.ai) - Enterprise AI agent platform focused on conversational customer experiences (paid; SaaS).
 - [Ultimate (Zendesk AI Agents)](https://www.zendesk.com/service/ai/ai-agents/) - AI agent platform inside Zendesk (paid; SaaS).
 
@@ -161,8 +163,8 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 - [Chameleon](https://www.chameleon.io) - In-product tours, tooltips, and surveys (paid; SaaS).
 - [Pendo](https://www.pendo.io) - Product analytics with in-app guides and feedback (paid; SaaS).
 - [Shepherd.js](https://shepherdjs.dev) - Open-source JavaScript library for guided product tours (free; open source; self-hosted).
-- [UserGuiding](https://userguiding.com) - No-code onboarding and product tours for SMBs (paid; SaaS).
 - [Userflow](https://www.userflow.com) - In-app flows, checklists, and surveys with a developer-friendly SDK (paid; SaaS).
+- [UserGuiding](https://userguiding.com) - No-code onboarding and product tours for SMBs (paid; SaaS).
 - [Userpilot](https://userpilot.com) - Product experience platform for onboarding and adoption (paid; SaaS).
 - [WalkMe](https://www.walkme.com) - Enterprise digital-adoption platform (paid; SaaS).
 - [Whatfix](https://whatfix.com) - Digital-adoption platform for enterprise applications (paid; SaaS).
@@ -283,7 +285,7 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 - [Postal](https://postalserver.io) - Self-hosted mail delivery platform (free; open source; self-hosted).
 - [Postmark](https://postmarkapp.com) - Transactional email focused on deliverability and speed (paid; SaaS).
 - [SendGrid](https://sendgrid.com) - Transactional and marketing email from Twilio (freemium; SaaS).
-- [SparkPost](https://www.sparkpost.com) - Transactional email platform now part of MessageBird (paid; SaaS).
+- [SparkPost](https://www.sparkpost.com) - Transactional email platform, now part of Bird (formerly MessageBird) (paid; SaaS).
 
 ## Related
 
