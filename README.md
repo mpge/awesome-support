@@ -192,19 +192,48 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 
 ## ITSM and Internal Service Desk
 
-- [Placeholder](https://example.com/placeholder-15) - Temporary entry replaced in Task 8 (paid; SaaS).
+- [BMC Helix ITSM](https://www.bmc.com/it-solutions/bmc-helix-itsm.html) - Enterprise ITSM platform with strong ITIL coverage (paid; SaaS / self-hosted).
+- [Freshservice](https://www.freshworks.com/freshservice/) - Cloud-native IT service desk from Freshworks (paid; SaaS).
+- [GLPI](https://glpi-project.org) - Open-source IT asset and service management (free; open source; self-hosted).
+- [iTop](https://www.combodo.com/itop) - Open-source ITSM and CMDB platform (free; open source; self-hosted).
+- [Jira Service Management](https://www.atlassian.com/software/jira/service-management) - Atlassian's ITSM and employee-service platform (paid; SaaS / self-hosted).
+- [ManageEngine ServiceDesk Plus](https://www.manageengine.com/products/service-desk/) - ITIL-aligned ITSM suite from Zoho-owned ManageEngine (paid; SaaS / self-hosted).
+- [ServiceNow IT Service Management](https://www.servicenow.com/products/itsm.html) - Market-leading enterprise ITSM platform (paid; SaaS).
+- [SolarWinds Service Desk](https://www.solarwinds.com/service-desk) - Mid-market ITSM with asset management (paid; SaaS).
+- [SysAid](https://www.sysaid.com) - Mid-market ITSM with built-in automation and AI (paid; SaaS / self-hosted).
+- [Znuny](https://www.znuny.org) - Open-source ITSM platform forked from OTRS (free; open source; self-hosted).
 
 ## Workforce Management
 
-- [Placeholder](https://example.com/placeholder-16) - Temporary entry replaced in Task 8 (paid; SaaS).
+- [Assembled](https://www.assembled.com) - Modern WFM built specifically for support teams (paid; SaaS).
+- [Calabrio ONE](https://www.calabrio.com) - Enterprise WFO suite covering WFM, QM, and analytics (paid; SaaS).
+- [Injixo](https://www.injixo.com) - Cloud WFM for contact centers (paid; SaaS).
+- [NICE Workforce Management](https://www.nice.com/products/workforce-management) - Enterprise WFM, part of NICE CXone (paid; SaaS).
+- [Playvox WFM](https://www.playvox.com/workforce-management/) - WFM focused on digital-first support teams (paid; SaaS).
+- [Tymeshift](https://tymeshift.com) - Zendesk-native WFM for digital support (paid; SaaS).
+- [Verint Workforce Management](https://www.verint.com/workforce-management/) - Enterprise WFM platform (paid; SaaS).
 
 ## Support Analytics and Reporting
 
-- [Placeholder](https://example.com/placeholder-17) - Temporary entry replaced in Task 8 (paid; SaaS).
+- [Klaus](https://www.klausapp.com) - Conversation review and QA scoring for support teams (paid; SaaS).
+- [Looker](https://cloud.google.com/looker) - Enterprise BI platform widely used for support dashboards (paid; SaaS).
+- [MaestroQA](https://www.maestroqa.com) - Quality-assurance and coaching platform for support (paid; SaaS).
+- [Pathlight](https://www.pathlight.com) - Performance-management and coaching for customer-facing teams (paid; SaaS).
+- [Sisense](https://www.sisense.com) - Embeddable analytics platform used for customer-facing support metrics (paid; SaaS).
+- [SupportLogic](https://www.supportlogic.com) - Support experience and escalation prediction powered by NLP (paid; SaaS).
+- [Tableau](https://www.tableau.com) - Widely used BI tool for building custom support dashboards (paid; SaaS / self-hosted).
 
 ## Survey and CSAT
 
-- [Placeholder](https://example.com/placeholder-18) - Temporary entry replaced in Task 8 (paid; SaaS).
+- [AskNicely](https://www.asknicely.com) - NPS and CSAT surveys tied to customer workflows (paid; SaaS).
+- [Delighted](https://delighted.com) - Simple NPS, CSAT, and CES surveys from Qualtrics (freemium; SaaS).
+- [Hotjar](https://www.hotjar.com) - Behavior analytics with on-site feedback and surveys (freemium; SaaS).
+- [Medallia](https://www.medallia.com) - Enterprise experience-management platform (paid; SaaS).
+- [Qualtrics CustomerXM](https://www.qualtrics.com/customer-experience/) - Enterprise customer-experience management platform (paid; SaaS).
+- [Refiner](https://refiner.io) - In-app micro-surveys targeted to SaaS users (paid; SaaS).
+- [Simplesat](https://www.simplesat.io) - CSAT embedded in ticket replies for helpdesks (paid; SaaS).
+- [SurveyMonkey](https://www.surveymonkey.com) - General-purpose survey platform with CX templates (freemium; SaaS).
+- [Typeform](https://www.typeform.com) - Conversational surveys and forms (freemium; SaaS).
 
 ## Remote Support and Screen Sharing
 
