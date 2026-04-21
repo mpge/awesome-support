@@ -80,19 +80,45 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 
 ## Knowledge Base and Documentation
 
-- [Placeholder](https://example.com/placeholder-5) - Temporary entry replaced in Task 5 (paid; SaaS).
+- [BookStack](https://www.bookstackapp.com) - Self-hosted wiki-style platform organized into books and chapters (free; open source; self-hosted).
+- [Confluence](https://www.atlassian.com/software/confluence) - Atlassian team workspace widely used for internal KBs (paid; SaaS / self-hosted).
+- [Document360](https://document360.com) - Dedicated knowledge-base platform with analytics and AI search (paid; SaaS).
+- [GitBook](https://www.gitbook.com) - Modern docs platform popular with developer-first teams (freemium; SaaS).
+- [HelpDocs](https://www.helpdocs.io) - Lightweight knowledge-base tool focused on writing experience (paid; SaaS).
+- [MadCap Flare](https://www.madcapsoftware.com/products/flare/) - Enterprise technical-authoring and single-sourcing platform (paid; self-hosted).
+- [ReadMe](https://readme.com) - Developer-focused documentation with interactive API explorers (paid; SaaS).
+- [Slab](https://slab.com) - Knowledge base focused on modern editing and integrations (paid; SaaS).
+- [Stonly](https://stonly.com) - Interactive step-by-step guides and decision trees (paid; SaaS).
+- [Wiki.js](https://js.wiki) - Modern open-source wiki engine (free; open source; self-hosted).
 
 ## Self-Service and Community Forums
 
-- [Placeholder](https://example.com/placeholder-6) - Temporary entry replaced in Task 5 (paid; SaaS).
+- [Circle](https://circle.so) - Community platform increasingly used for customer communities (paid; SaaS).
+- [Discourse](https://www.discourse.org) - Leading open-source discussion platform for customer communities (freemium; open source; self-hosted / SaaS).
+- [Flarum](https://flarum.org) - Lightweight open-source forum software (free; open source; self-hosted).
+- [Gainsight Customer Communities](https://www.gainsight.com/customer-communities/) - Community platform formerly known as inSided (paid; SaaS).
+- [Higher Logic Vanilla](https://www.higherlogic.com/vanilla/) - Enterprise community platform formerly Vanilla Forums (paid; SaaS / self-hosted).
+- [Khoros Communities](https://khoros.com/platform/communities) - Enterprise community platform (paid; SaaS).
+- [NodeBB](https://nodebb.org) - Modern open-source forum software built on Node.js (free; open source; self-hosted).
 
 ## Customer Portals
 
-- [Placeholder](https://example.com/placeholder-7) - Temporary entry replaced in Task 5 (paid; SaaS).
+- [Freshworks Customer Portal](https://www.freshworks.com/freshdesk/customer-portal/) - Branded self-service portal included with Freshdesk (paid; SaaS).
+- [HubSpot Customer Portal](https://www.hubspot.com/products/service/customer-portal) - Portal tied to HubSpot tickets and knowledge base (paid; SaaS).
+- [Salesforce Experience Cloud](https://www.salesforce.com/products/experience-cloud/) - Enterprise customer, partner, and employee portal platform (paid; SaaS).
+- [Vtiger Customer Portal](https://www.vtiger.com/customer-portal-software/) - Self-service portal inside the Vtiger CRM (freemium; SaaS / self-hosted).
+- [Zendesk Help Center](https://www.zendesk.com/service/help-center/) - Branded customer portal bundled with Zendesk Suite (paid; SaaS).
+- [Zoho Customer Portal](https://www.zoho.com/desk/help-desk-customer-portal.html) - Customer self-service portal inside Zoho Desk (freemium; SaaS).
 
 ## Status Pages
 
-- [Placeholder](https://example.com/placeholder-8) - Temporary entry replaced in Task 5 (paid; SaaS).
+- [BetterStack Status](https://betterstack.com/status-page) - Status pages bundled with incident management and uptime monitoring (freemium; SaaS).
+- [Cachet](https://cachethq.io) - Self-hosted open-source status page system (free; open source; self-hosted).
+- [Instatus](https://instatus.com) - Fast, minimalist hosted status pages (freemium; SaaS).
+- [Oh Dear](https://ohdear.app) - Website monitoring bundled with hosted status pages (paid; SaaS).
+- [Statusgator](https://statusgator.com) - Aggregates status pages from other vendors you depend on (freemium; SaaS).
+- [Statuspage](https://www.atlassian.com/software/statuspage) - Atlassian hosted status pages; widely used incumbent (paid; SaaS).
+- [UptimeRobot Status Pages](https://uptimerobot.com/status-page/) - Hosted status pages bundled with UptimeRobot monitoring (freemium; SaaS).
 
 ## AI Agents
 
