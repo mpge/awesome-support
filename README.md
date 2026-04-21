@@ -33,19 +33,50 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 
 ## Ticketing and Shared Inbox
 
-- [Placeholder](https://example.com/placeholder-1) - Temporary entry replaced in Task 4 (paid; SaaS).
+- [FreeScout](https://freescout.net) - Self-hosted Help Scout alternative with a shared-inbox workflow (free; open source; self-hosted).
+- [Freshdesk](https://freshdesk.com) - Cloud-based ticketing and omnichannel support suite from Freshworks (freemium; SaaS).
+- [Front](https://front.com) - Shared-inbox platform for customer-facing team email, SMS, and chat (paid; SaaS).
+- [Help Scout](https://www.helpscout.com) - Shared inbox, knowledge base, and live chat aimed at small and mid-sized teams (paid; SaaS).
+- [Hiver](https://hiverhq.com) - Turns Gmail into a shared helpdesk without leaving the inbox (paid; SaaS).
+- [HubSpot Service Hub](https://www.hubspot.com/products/service) - Ticketing, knowledge base, and SLAs built on the HubSpot CRM (freemium; SaaS).
+- [Intercom](https://www.intercom.com) - Messenger-first customer support and engagement platform with AI agents (paid; SaaS).
+- [Kayako](https://kayako.com) - Unified ticketing across email, chat, and social with a customer-journey view (paid; SaaS).
+- [osTicket](https://osticket.com) - Long-running open-source ticketing system for small teams (free; open source; self-hosted).
+- [Trengo](https://trengo.com) - Shared inbox unifying WhatsApp, email, chat, and voice channels (paid; SaaS).
+- [Zammad](https://zammad.org) - Modern open-source web-based helpdesk and customer-support system (free; open source; self-hosted).
+- [Zendesk](https://www.zendesk.com) - Omnichannel ticketing and customer-service platform; the category incumbent (paid; SaaS).
 
 ## Live Chat and Messaging
 
-- [Placeholder](https://example.com/placeholder-2) - Temporary entry replaced in Task 4 (paid; SaaS).
+- [Chatwoot](https://www.chatwoot.com) - Open-source customer-engagement suite with live chat, inbox, and bots (freemium; open source; self-hosted / SaaS).
+- [Crisp](https://crisp.chat) - Live chat, shared inbox, and chatbot builder aimed at SMBs (freemium; SaaS).
+- [Drift](https://www.drift.com) - Conversational marketing and sales chat, now part of Salesloft (paid; SaaS).
+- [LiveChat](https://www.livechat.com) - Long-standing live-chat and helpdesk platform (paid; SaaS).
+- [Olark](https://www.olark.com) - Simple live chat focused on ease of setup and accessibility features (paid; SaaS).
+- [Tawk.to](https://www.tawk.to) - Free live chat and messaging with paid add-ons for AI and hired agents (free; SaaS).
+- [Tidio](https://www.tidio.com) - Live chat plus chatbot and AI agents for small online stores (freemium; SaaS).
+- [Zoho SalesIQ](https://www.zoho.com/salesiq/) - Live chat, visitor tracking, and chatbots in the Zoho suite (freemium; SaaS).
 
 ## Call Center and CCaaS
 
-- [Placeholder](https://example.com/placeholder-3) - Temporary entry replaced in Task 4 (paid; SaaS).
+- [8x8 Contact Center](https://www.8x8.com/products/contact-center) - Cloud contact center with integrated UCaaS (paid; SaaS).
+- [Aircall](https://aircall.io) - Cloud phone system with CRM integrations aimed at SMB support and sales teams (paid; SaaS).
+- [Amazon Connect](https://aws.amazon.com/connect/) - Pay-as-you-go cloud contact center built on AWS (paid; SaaS).
+- [Dialpad](https://www.dialpad.com) - AI-powered business phone and contact center (paid; SaaS).
+- [Five9](https://www.five9.com) - Enterprise cloud contact center with digital and AI channels (paid; SaaS).
+- [Genesys Cloud](https://www.genesys.com/genesys-cloud) - Enterprise CCaaS with routing, WFM, and AI (paid; SaaS).
+- [NICE CXone](https://www.nice.com/products/cxone) - Enterprise contact center platform with analytics and WFO (paid; SaaS).
+- [Talkdesk](https://www.talkdesk.com) - Cloud contact center with industry-specific AI agents (paid; SaaS).
 
 ## Social Media Support
 
-- [Placeholder](https://example.com/placeholder-4) - Temporary entry replaced in Task 4 (paid; SaaS).
+- [Agorapulse](https://www.agorapulse.com) - Social media inbox, publishing, and reporting for mid-sized teams (paid; SaaS).
+- [Brand24](https://brand24.com) - Social listening and brand-mention monitoring (paid; SaaS).
+- [Hootsuite](https://www.hootsuite.com) - Multi-network social publishing and engagement inbox (paid; SaaS).
+- [Khoros Care](https://khoros.com/platform/care) - Enterprise social customer-care platform (paid; SaaS).
+- [Mention](https://mention.com) - Real-time brand and social monitoring tool (paid; SaaS).
+- [Sprinklr Service](https://www.sprinklr.com/products/customer-service/) - Enterprise unified-CX platform with heavy social focus (paid; SaaS).
+- [Sprout Social](https://sproutsocial.com) - Social engagement, publishing, and care platform (paid; SaaS).
 
 ## Knowledge Base and Documentation
 
