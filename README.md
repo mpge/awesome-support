@@ -237,23 +237,53 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 
 ## Remote Support and Screen Sharing
 
-- [Placeholder](https://example.com/placeholder-19) - Temporary entry replaced in Task 9 (paid; SaaS).
+- [AnyDesk](https://anydesk.com) - Fast remote-desktop software with a free tier for personal use (freemium; SaaS / self-hosted).
+- [BeyondTrust Remote Support](https://www.beyondtrust.com/remote-support) - Enterprise remote support with strong security controls (paid; SaaS / self-hosted).
+- [GoTo Resolve](https://www.goto.com/it-management/resolve) - Remote support and endpoint management, formerly GoToAssist (paid; SaaS).
+- [ISL Online](https://www.islonline.com) - Remote-support platform with on-prem deployment option (paid; SaaS / self-hosted).
+- [LogMeIn Rescue](https://www.logmeinrescue.com) - Enterprise remote-support toolkit for help desks (paid; SaaS).
+- [RustDesk](https://rustdesk.com) - Open-source remote-desktop software you can self-host (free; open source; self-hosted).
+- [Splashtop SOS](https://www.splashtop.com/sos) - On-demand remote support for IT and helpdesk teams (paid; SaaS).
+- [TeamViewer](https://www.teamviewer.com) - Widely used remote-access and support platform (freemium; SaaS / self-hosted).
+- [Zoho Assist](https://www.zoho.com/assist/) - Remote support and unattended access from Zoho (freemium; SaaS).
 
 ## Co-Browse
 
-- [Placeholder](https://example.com/placeholder-20) - Temporary entry replaced in Task 9 (paid; SaaS).
+- [Cobrowse.io](https://cobrowse.io) - Embeddable co-browse and screen-share SDK for web and mobile (paid; SaaS / self-hosted).
+- [Fullview](https://www.fullview.io) - Co-browse and session replay for B2B SaaS support (paid; SaaS).
+- [Glance](https://www.glance.net) - Enterprise co-browse, screen share, and video (paid; SaaS).
+- [Surfly](https://www.surfly.com) - Universal co-browse that works on any website without install (paid; SaaS).
+- [Upscope](https://upscope.com) - No-download co-browse for SaaS support teams (paid; SaaS).
 
 ## Developer Support Platforms
 
-- [Placeholder](https://example.com/placeholder-21) - Temporary entry replaced in Task 9 (paid; SaaS).
+- [DevRev](https://devrev.ai) - Unified platform bridging support and developer workflows (paid; SaaS).
+- [Featurebase](https://featurebase.app) - Feedback, changelog, and help center tuned for developer tools (freemium; SaaS).
+- [Linen](https://www.linen.dev) - Community chat (Slack/Discord) mirrored to Google-indexable pages (freemium; SaaS).
+- [Plain](https://www.plain.com) - Developer-first support platform built on a modern API (paid; SaaS).
+- [Pylon](https://usepylon.com) - Modern B2B support platform with Slack-based customer channels (paid; SaaS).
+- [Stack Overflow for Teams](https://stackoverflow.com/teams) - Private Stack Overflow for internal and customer-facing knowledge (freemium; SaaS).
 
 ## Translation and Localization
 
-- [Placeholder](https://example.com/placeholder-22) - Temporary entry replaced in Task 9 (paid; SaaS).
+- [Crowdin](https://crowdin.com) - Localization management for docs, apps, and support content (freemium; SaaS).
+- [Lilt](https://lilt.com) - AI-first translation platform with human-in-the-loop workflows (paid; SaaS).
+- [Lokalise](https://lokalise.com) - Translation management platform with strong dev integrations (paid; SaaS).
+- [Phrase](https://phrase.com) - Enterprise localization suite, formerly Phrase Strings and Memsource (paid; SaaS).
+- [Smartling](https://www.smartling.com) - Enterprise translation-management platform (paid; SaaS).
+- [Transifex](https://www.transifex.com) - Localization platform with focus on continuous translation (paid; SaaS).
+- [Unbabel](https://unbabel.com) - AI-plus-human translation embedded into support tickets and chat (paid; SaaS).
+- [Weblate](https://weblate.org) - Open-source translation-management platform (freemium; open source; self-hosted / SaaS).
 
 ## Email Deliverability
 
-- [Placeholder](https://example.com/placeholder-23) - Temporary entry replaced in Task 9 (paid; SaaS).
+- [Amazon SES](https://aws.amazon.com/ses/) - Low-cost transactional email service on AWS (paid; SaaS).
+- [Haraka](https://haraka.github.io) - High-performance open-source SMTP server written in Node.js (free; open source; self-hosted).
+- [Mailgun](https://www.mailgun.com) - Transactional email service with deliverability tooling (freemium; SaaS).
+- [Postal](https://postalserver.io) - Self-hosted mail delivery platform (free; open source; self-hosted).
+- [Postmark](https://postmarkapp.com) - Transactional email focused on deliverability and speed (paid; SaaS).
+- [SendGrid](https://sendgrid.com) - Transactional and marketing email from Twilio (freemium; SaaS).
+- [SparkPost](https://www.sparkpost.com) - Transactional email platform now part of MessageBird (paid; SaaS).
 
 ## Related
 
