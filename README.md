@@ -122,15 +122,38 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 
 ## AI Agents
 
-- [Placeholder](https://example.com/placeholder-9) - Temporary entry replaced in Task 6 (paid; SaaS).
+- [Ada](https://www.ada.cx) - Enterprise AI agent platform for automated customer resolutions (paid; SaaS).
+- [Boost.ai](https://www.boost.ai) - Enterprise conversational AI for customer service and self-service (paid; SaaS).
+- [Cognigy](https://www.cognigy.com) - Enterprise conversational AI platform with voice and chat AI agents (paid; SaaS).
+- [Decagon](https://decagon.ai) - AI agents for customer support with tight enterprise integrations (paid; SaaS).
+- [Fin by Intercom](https://www.intercom.com/fin) - AI agent built on top of Intercom's support data (paid; SaaS).
+- [Forethought](https://forethought.ai) - AI agent and triage platform for support teams (paid; SaaS).
+- [Netomi](https://www.netomi.com) - AI-first customer experience platform for resolution automation (paid; SaaS).
+- [Sierra](https://sierra.ai) - Enterprise AI agent platform focused on conversational customer experiences (paid; SaaS).
+- [Ultimate (Zendesk AI Agents)](https://www.zendesk.com/service/ai/ai-agents/) - AI agent platform inside Zendesk (paid; SaaS).
 
 ## Chatbots and Conversational AI
 
-- [Placeholder](https://example.com/placeholder-10) - Temporary entry replaced in Task 6 (paid; SaaS).
+- [Botpress](https://botpress.com) - Developer-focused chatbot platform with an open-source core (freemium; open source; self-hosted / SaaS).
+- [Chatfuel](https://chatfuel.com) - No-code chatbot builder for Instagram, WhatsApp, and the web (freemium; SaaS).
+- [Dialogflow](https://cloud.google.com/dialogflow) - Google's conversational AI service for voice and chat agents (freemium; SaaS).
+- [IBM watsonx Assistant](https://www.ibm.com/products/watsonx-assistant) - Enterprise conversational AI formerly IBM Watson Assistant (paid; SaaS).
+- [Kore.ai](https://kore.ai) - Enterprise conversational and generative AI platform (paid; SaaS).
+- [Landbot](https://landbot.io) - Visual no-code chatbot builder for web and WhatsApp (freemium; SaaS).
+- [LivePerson](https://www.liveperson.com) - Enterprise conversational cloud with messaging and voice AI (paid; SaaS).
+- [ManyChat](https://manychat.com) - Chat-marketing and support bots for Instagram, Messenger, and WhatsApp (freemium; SaaS).
+- [Rasa](https://rasa.com) - Developer-oriented open-source conversational AI framework (freemium; open source; self-hosted).
 
 ## Automation and Integration
 
-- [Placeholder](https://example.com/placeholder-11) - Temporary entry replaced in Task 6 (paid; SaaS).
+- [IFTTT](https://ifttt.com) - Lightweight trigger-based integrations across consumer and SMB apps (freemium; SaaS).
+- [Make](https://www.make.com) - Visual automation and integration platform, formerly Integromat (freemium; SaaS).
+- [n8n](https://n8n.io) - Fair-code workflow automation platform (freemium; open source; self-hosted / SaaS).
+- [Pipedream](https://pipedream.com) - Developer-first integration platform with code steps (freemium; SaaS).
+- [Power Automate](https://www.microsoft.com/power-platform/products/power-automate) - Microsoft's workflow automation platform (paid; SaaS).
+- [Tray.io](https://tray.io) - General-purpose integration and automation platform (paid; SaaS).
+- [Workato](https://www.workato.com) - Enterprise iPaaS with strong support-tool recipes (paid; SaaS).
+- [Zapier](https://zapier.com) - No-code automation connecting thousands of apps; the category incumbent (freemium; SaaS).
 
 ## In-App Messaging and Product Tours
 
