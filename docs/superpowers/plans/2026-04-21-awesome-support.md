@@ -6,7 +6,7 @@
 
 **Architecture:** Static documentation repository. The deliverable is a `README.md` that passes `awesome-lint` plus the standard awesome-list supporting files (LICENSE, CONTRIBUTING.md, issue/PR templates) and a CI workflow that runs `awesome-lint` on every push and PR.
 
-**Tech Stack:** Markdown, Git, GitHub, GitHub Actions, Node.js (for `awesome-lint` CLI invoked via `npx`).
+**Tech Stack:** Markdown, Git, GitHub, GitHub Actions, Node.js. Local commands use `pnpm` (already installed in this environment; `npm` is not on the Git Bash PATH). CI on Ubuntu uses `npx`.
 
 **Working directory:** `C:\Users\work\awesome-support` (already initialized as a git repo on branch `main` with two commits containing the design spec).
 
@@ -419,7 +419,7 @@ To the extent possible under law, [mpge](https://github.com/mpge) has waived all
 - [ ] **Step 2: Run the linter to verify the skeleton passes**
 
 ```bash
-cd /c/Users/work/awesome-support && npx --yes awesome-lint
+cd /c/Users/work/awesome-support && pnpm dlx awesome-lint
 ```
 
 Expected: exit code 0, output ends with `No problems found!` (or similar).
@@ -435,9 +435,9 @@ git commit -m "Add awesome-lint-compliant README skeleton"
 
 ---
 
-## Task 3: Configure awesome-lint as a local dev dependency (optional but recommended)
+## Task 3: Configure awesome-lint as a local dev dependency
 
-Using `npx --yes awesome-lint` works, but creating a tiny `package.json` pins the version and makes local runs faster after the first install.
+Using `pnpm dlx awesome-lint` works, but creating a `package.json` pins the version and makes local runs faster after the first install.
 
 **Files:**
 - Create: `package.json`
@@ -460,16 +460,16 @@ Using `npx --yes awesome-lint` works, but creating a tiny `package.json` pins th
 - [ ] **Step 2: Install and verify lint still passes**
 
 ```bash
-npm install
-npm run lint
+pnpm install
+ppnpm run lint
 ```
 
-Expected: `npm install` completes (produces `package-lock.json` and `node_modules/`); `npm run lint` exits 0.
+Expected: `pnpm install` completes (produces `pnpm-lock.yaml` and `node_modules/`); `ppnpm run lint` exits 0.
 
 - [ ] **Step 3: Commit**
 
 ```bash
-git add package.json package-lock.json
+git add package.json pnpm-lock.yaml
 git commit -m "Pin awesome-lint via package.json"
 ```
 
@@ -479,13 +479,13 @@ Note: `node_modules/` is already ignored from Task 1.
 
 ## Category population (Tasks 4–9)
 
-Each of the following tasks replaces the Task-2 placeholder in a group of categories with alphabetized, lint-compliant seed entries. After each task, run `npm run lint` and commit only if it passes.
+Each of the following tasks replaces the Task-2 placeholder in a group of categories with alphabetized, lint-compliant seed entries. After each task, run `pnpm run lint` and commit only if it passes.
 
 **Universal per-task workflow:**
 
 1. Open `README.md`.
 2. For each category in the task, delete the placeholder line and paste the new block below the category heading.
-3. Run `npm run lint`. If it fails, read the error, fix the specific entry it points to (usually alphabetization, missing period, or lowercase start).
+3. Run `pnpm run lint`. If it fails, read the error, fix the specific entry it points to (usually alphabetization, missing period, or lowercase start).
 4. Commit with the suggested message.
 
 ---
@@ -555,7 +555,7 @@ Under `## Ticketing and Shared Inbox` replace the single placeholder line with:
 - [ ] **Step 5: Run lint**
 
 ```bash
-npm run lint
+pnpm run lint
 ```
 
 Expected: exit 0.
@@ -627,7 +627,7 @@ git commit -m "Seed core-channel categories (ticketing, chat, CCaaS, social)"
 - [ ] **Step 5: Run lint and commit**
 
 ```bash
-npm run lint
+pnpm run lint
 git add README.md
 git commit -m "Seed self-service categories (KB, forums, portals, status)"
 ```
@@ -683,7 +683,7 @@ git commit -m "Seed self-service categories (KB, forums, portals, status)"
 - [ ] **Step 4: Run lint and commit**
 
 ```bash
-npm run lint
+pnpm run lint
 git add README.md
 git commit -m "Seed automation and AI categories"
 ```
@@ -739,7 +739,7 @@ git commit -m "Seed automation and AI categories"
 - [ ] **Step 4: Run lint and commit**
 
 ```bash
-npm run lint
+pnpm run lint
 git add README.md
 git commit -m "Seed proactive/in-product categories"
 ```
@@ -807,7 +807,7 @@ git commit -m "Seed proactive/in-product categories"
 - [ ] **Step 5: Run lint and commit**
 
 ```bash
-npm run lint
+pnpm run lint
 git add README.md
 git commit -m "Seed operations categories (ITSM, WFM, analytics, CSAT)"
 ```
@@ -882,7 +882,7 @@ git commit -m "Seed operations categories (ITSM, WFM, analytics, CSAT)"
 - [ ] **Step 6: Run lint and commit**
 
 ```bash
-npm run lint
+pnpm run lint
 git add README.md
 git commit -m "Seed specialized categories (remote, co-browse, devrel, i18n, email)"
 ```
@@ -897,7 +897,7 @@ git commit -m "Seed specialized categories (remote, co-browse, devrel, i18n, ema
 - [ ] **Step 1: Run awesome-lint and fix anything it catches**
 
 ```bash
-npm run lint
+pnpm run lint
 ```
 
 If it reports issues, address them one at a time. Common fixes:
@@ -924,7 +924,7 @@ Expected: both print `no placeholders` / `no temporary entries`.
 - [ ] **Step 3: Final lint pass**
 
 ```bash
-npm run lint
+pnpm run lint
 ```
 
 Expected: exit 0.
