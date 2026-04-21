@@ -1,0 +1,87 @@
+name: Suggest a Tool
+description: Suggest a support tool to add to the list.
+title: "[Suggestion] <tool name>"
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Proposed category
+      options:
+        - Ticketing & Shared Inbox
+        - Live Chat & Messaging
+        - Call Center / CCaaS
+        - Social Media Support
+        - Knowledge Base & Documentation
+        - Self-Service & Community Forums
+        - Customer Portals
+        - Status Pages
+        - AI Agents
+        - Chatbots & Conversational AI
+        - Automation & Integration
+        - In-App Messaging & Product Tours
+        - Customer Feedback / Voice of Customer
+        - Customer Success Platforms
+        - ITSM / Internal Service Desk
+        - Workforce Management
+        - Support Analytics & Reporting
+        - Survey & CSAT
+        - Remote Support & Screen Sharing
+        - Co-Browse
+        - Developer Support Platforms
+        - Translation & Localization
+        - Email Deliverability
+    validations:
+      required: true
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing model
+      options:
+        - Free
+        - Freemium
+        - Paid
+        - Open Source
+    validations:
+      required: true
+  - type: dropdown
+    id: deployment
+    attributes:
+      label: Deployment model
+      options:
+        - SaaS
+        - Self-hosted
+        - Both
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line description
+      description: One sentence, 10-20 words. Starts with a capital letter and ends with a period.
+    validations:
+      required: true
+  - type: checkboxes
+    id: criteria
+    attributes:
+      label: Inclusion criteria
+      options:
+        - label: The tool is primarily purpose-built for support / CX / IT-support.
+          required: true
+        - label: The tool is actively maintained (release, commit, or update in the last 18 months).
+          required: true
+        - label: The tool is not already listed under another name.
+          required: true
