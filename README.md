@@ -127,7 +127,7 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 
 - [awesome-support](https://github.com/fatihok/awesome-support) - The original awesome-support list; more OSS-focused than this one.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Broader self-hosted software list with a ticketing section.
-- [awesome-customer-success](https://github.com/xopxe/awesome-customer-success) - Focused specifically on customer success.
+- [awesome-customer-success](https://github.com/keon/awesome-customer-success) - Focused specifically on customer success.
 
 ## Contributing
 
