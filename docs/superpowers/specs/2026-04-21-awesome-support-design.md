@@ -1,6 +1,6 @@
 # awesome-support — Design
 
-**Repo:** `mpge/awesome-support`
+**Repo:** `mpge/awesome-support` (GitHub username, public)
 **Date:** 2026-04-21
 **Status:** Approved design, pending implementation plan
 
@@ -34,7 +34,9 @@ awesome-support/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
 │   │   └── suggest-tool.yml           structured form for tool suggestions
-│   └── pull_request_template.md       PR checklist for contributors
+│   ├── pull_request_template.md       PR checklist for contributors
+│   └── workflows/
+│       └── lint.yml                   awesome-lint CI on push/PR
 ├── .gitignore
 └── docs/
     └── superpowers/specs/
@@ -150,8 +152,23 @@ At launch, each category is populated with 5-10 well-known tools drawn from gene
 5. `gh repo create mpge/awesome-support --public --source=. --push`.
 6. Verify repo is live and README renders correctly.
 
+## Conventions
+
+The list must comply with [sindresorhus/awesome](https://github.com/sindresorhus/awesome/blob/main/awesome.md) conventions and pass [`awesome-lint`](https://github.com/sindresorhus/awesome-lint):
+
+- README starts with `# Awesome Support` title and the awesome badge linking to the main awesome list.
+- Short description under the title, no more than a paragraph.
+- Table of contents via `## Contents`.
+- Entries use the canonical format: `- [Name](url) - Description.` (capital start, ends with period, en-dash-free).
+- Alphabetical order within each section.
+- No emoji in section titles or entries (awesome-lint rejects them).
+- License is CC0 1.0 Universal in a separate `LICENSE` file.
+- Include a **Related** section linking to adjacent awesome-lists.
+- `awesome-lint` runs in CI on every push and pull request.
+
+**Note on tables:** awesome-lint does not allow non-bullet content in list sections. The per-category "Notable tools" highlights table will live at the **top of each category section, before the `###` subsection**, or alternatively may be removed if lint rejects the pattern; the tagged bullet list is the canonical entry format required for compliance.
+
 ## Open decisions deferred to implementation
 
 - Exact seed tools per category (pick during implementation; constrained by inclusion criteria).
-- Whether to add a "Related lists" section linking to adjacent awesome-lists (probably yes — convention).
-- Whether to include an awesome-lint CI check (convention, but adds setup overhead — decide during implementation).
+- Final placement of the "Notable tools" highlights table — keep if awesome-lint permits, drop if not.
