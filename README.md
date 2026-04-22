@@ -33,6 +33,7 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 
 ## Ticketing and Shared Inbox
 
+- [Escalated](https://escalated.dev) - Open-source help desk you embed in your web app via framework adapters (free; open source; self-hosted).
 - [FreeScout](https://freescout.net) - Self-hosted Help Scout alternative with a shared-inbox workflow (free; open source; self-hosted).
 - [Freshdesk](https://freshdesk.com) - Cloud-based ticketing and omnichannel support suite from Freshworks (freemium; SaaS).
 - [Front](https://front.com) - Shared-inbox platform for customer-facing team email, SMS, and chat (paid; SaaS).
