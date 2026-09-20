@@ -30,6 +30,7 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 - [Translation and Localization](#translation-and-localization)
 - [Email Deliverability](#email-deliverability)
 - [Related](#related)
+- [Support](#support)
 
 ## Ticketing and Shared Inbox
 
