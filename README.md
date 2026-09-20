@@ -135,6 +135,7 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 - [Salesforce Agentforce](https://www.salesforce.com/agentforce/) - Autonomous AI agents built into the Salesforce Service Cloud platform (paid; SaaS).
 - [Sierra](https://sierra.ai) - Enterprise AI agent platform focused on conversational customer experiences (paid; SaaS).
 - [Ultimate (Zendesk AI Agents)](https://www.zendesk.com/service/ai/ai-agents/) - AI agent platform inside Zendesk (paid; SaaS).
+- [Workforce Wave](https://www.workforcewave.com/) - AI voice receptionist for small and mid-sized businesses that answers calls 24/7, books appointments, and captures after-hours leads (paid; SaaS).
 
 ## Chatbots and Conversational AI
 
