@@ -56,6 +56,7 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 - [Drift](https://www.drift.com) - Conversational marketing and sales chat, now part of Salesloft (paid; SaaS).
 - [LiveChat](https://www.livechat.com) - Long-standing live-chat and helpdesk platform (paid; SaaS).
 - [Olark](https://www.olark.com) - Simple live chat focused on ease of setup and accessibility features (paid; SaaS).
+- [Replium](https://replium.chat) - Help center, live chat, and a shared inbox for teams without a support department (freemium; SaaS).
 - [Tawk.to](https://www.tawk.to) - Free live chat and messaging with paid add-ons for AI and hired agents (free; SaaS).
 - [Tidio](https://www.tidio.com) - Live chat plus chatbot and AI agents for small online stores (freemium; SaaS).
 - [Zoho SalesIQ](https://www.zoho.com/salesiq/) - Live chat, visitor tracking, and chatbots in the Zoho suite (freemium; SaaS).
