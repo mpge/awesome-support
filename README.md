@@ -131,6 +131,7 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 - [Decagon](https://decagon.ai) - AI agents for customer support with tight enterprise integrations (paid; SaaS).
 - [Fin by Intercom](https://www.intercom.com/fin) - AI agent built on top of Intercom's support data (paid; SaaS).
 - [Forethought](https://forethought.ai) - AI agent and triage platform for support teams (paid; SaaS).
+- [IrisAgent](https://irisagent.com) - AI agent overlay for Zendesk, Salesforce, Intercom, and Freshworks, grounded in past tickets (freemium; SaaS).
 - [Netomi](https://www.netomi.com) - AI-first customer experience platform for resolution automation (paid; SaaS).
 - [Salesforce Agentforce](https://www.salesforce.com/agentforce/) - Autonomous AI agents built into the Salesforce Service Cloud platform (paid; SaaS).
 - [Sierra](https://sierra.ai) - Enterprise AI agent platform focused on conversational customer experiences (paid; SaaS).
