@@ -44,6 +44,7 @@ Covers 23 categories across ticketing, live chat, knowledge bases, AI agents, IT
 - [Intercom](https://www.intercom.com) - Messenger-first customer support and engagement platform with AI agents (paid; SaaS).
 - [Kayako](https://kayako.com) - Unified ticketing across email, chat, and social with a customer-journey view (paid; SaaS).
 - [osTicket](https://osticket.com) - Long-running open-source ticketing system for small teams (free; open source; self-hosted).
+- [Pipp](https://pipp.so) - Shared inbox for small teams, with built-in AI and MCP access for your own agent (free; SaaS).
 - [Salesforce Service Cloud](https://www.salesforce.com/service/) - Enterprise ticketing and case management on the Salesforce platform (paid; SaaS).
 - [Trengo](https://trengo.com) - Shared inbox unifying WhatsApp, email, chat, and voice channels (paid; SaaS).
 - [Zammad](https://zammad.org) - Modern open-source web-based helpdesk and customer-support system (free; open source; self-hosted).
